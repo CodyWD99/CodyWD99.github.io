@@ -1,11 +1,11 @@
 # Site settings
-author: Cody Dupuis
-title: 
+author: Cody
+title: Why I decided to become a software engineer
 header-img: img/home-bg.png
 email: codydupuis99@gmail.com
-copyright_name: Cody Dupuis
+copyright_name: Cody
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Change of life course
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  CodyWD99
